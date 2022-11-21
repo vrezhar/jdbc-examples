@@ -1,0 +1,14 @@
+.DS_Store
+/estateguru-grailsPlugins.iml
+/.slcache/
+/.idea/
+/target/
+*.iml
+/out/
+/build/
+/.gradle/
+/sp/
+.asscache
+/src/test/groovy/playground/
+build.gradle
+grails-app/views/layouts/header/_headerScripts.gsp
