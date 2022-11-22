@@ -1,4 +1,4 @@
-package com.example.spring;
+package com.example.spring.jdbc.plain;
 
 import com.example.Example;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
